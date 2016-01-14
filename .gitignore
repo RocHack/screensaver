@@ -1,0 +1,5 @@
+.*.sw*
+programs/
+printprogram
+*.class
+
